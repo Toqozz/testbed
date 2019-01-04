@@ -6,4 +6,4 @@ edition = "2018"
 
 [dependencies]
 #amethyst = "0.10.0"
-amethyst = { path = "/Users/toqoz/Code/rust/amethyst/amethyst" }
+amethyst = { path = "/home/toqoz/code/rust/amethyst" }
